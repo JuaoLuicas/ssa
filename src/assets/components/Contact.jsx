@@ -53,7 +53,7 @@ const Contact = forwardRef((props, ref) => {
           </a>
 
           <a
-            href="https://www.instagram.com/sandrosolucaoemambientes/"
+            href="https://wa.me/5562984370891"
             target="_blank"
             className="flex justify-center items-center gap-2 text-center border-[3px] border-green-700 rounded-md text-green-700 text-[12pt] lg:text-[14pt] font-bold p-4 hover:scale-105 transition duration-150"
           >
